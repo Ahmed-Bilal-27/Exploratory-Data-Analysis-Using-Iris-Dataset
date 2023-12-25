@@ -21,7 +21,7 @@ print(iris['species'].value_counts())
 """
 data=iris - It is the data to create plot of.
 x='species' - iris['species'] is the x-axis.
-y='petal_length' - iris['petal_length'] is the x-axis.
+y='petal_length' - iris['petal_length'] is the y-axis.
 """
 sns.boxplot(data=iris, x='species', y='petal_length')
 plt.show() # Displaying the plot
