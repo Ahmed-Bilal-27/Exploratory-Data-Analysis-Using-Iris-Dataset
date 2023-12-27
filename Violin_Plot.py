@@ -5,7 +5,7 @@ This code is part of my Artificial Intelligence (CSC-462) lab coursework.
 #----------------Imports-----------------
 import pandas as pd # URL: https://pandas.pydata.org/
 import seaborn as sns # URL: https://seaborn.pydata.org/
-import matplotlib.pyplot as plt # URL: https://matplotlib.org/
+import matplotlib.pyplot as plt # URL: https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html/
 #----------------Imports-----------------
 # Reading dataset into pandas dataframe
 iris = pd.read_csv("D:\\Programs\\Python\\Exploratory_Data_Analysis\\iris.csv")
